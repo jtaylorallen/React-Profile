@@ -1,6 +1,6 @@
 
 # React-Profile
-#### 
+#### An application I can send to potential employers to view my work.
 
 ## Table of Contents
 
@@ -16,7 +16,6 @@
 
 ## Quick Links
 
-- click here to view --> [final website]()
 
 - click here to view --> [README GUIDE from UT](https://github.com/the-Coding-Boot-Camp-at-UT/UTA-VIRT-FSF-FT-06-2021-U-LOL/blob/master/01-HTML-Git-CSS/02-Homework/Homework-Guide/README.md)
 
