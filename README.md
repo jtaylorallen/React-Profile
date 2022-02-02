@@ -22,7 +22,8 @@
 
 ## First Looks
 
-- n/a
+![react-scrshot](https://user-images.githubusercontent.com/85364399/152251547-02f2105e-64a6-4af9-b87f-da2b04e2b27a.png)
+![react-project-scnshot](https://user-images.githubusercontent.com/85364399/152251544-659239b1-a63d-4a6f-9b1c-53a5f4495c19.png)
 
 
 ## Wireframes
